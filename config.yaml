@@ -11,39 +11,14 @@ publish_readme: True
 publish_gitpage: True
 publish_wechat: False
 
-# # file paths
-# json_readme_path: './docs/cv-arxiv-daily.json'
-# json_gitpage_path: './docs/cv-arxiv-daily-web.json'
-# json_wechat_path: './docs/cv-arxiv-daily-wechat.json'
+# file paths
+json_readme_path: './docs/cv-arxiv-daily.json'
+json_gitpage_path: './docs/cv-arxiv-daily-web.json'
+json_wechat_path: './docs/cv-arxiv-daily-wechat.json'
 
-# md_readme_path: 'README.md'
-# md_gitpage_path: './docs/index.md'
-# md_wechat_path: './docs/wechat.md'
-
-# 输出文件路径
-json_output_path: "D:/大三下/科研助手/cs-arxiv-daily.json"
-md_readme_path: "D:/大三下/科研助手/README.md"
-json_readme_path: "D:/大三下/科研助手/cs-arxiv-daily.json"
-json_gitpage_path: "D:/大三下/科研助手/cs-arxiv-daily-web.json"
-json_wechat_path: "D:/大三下/科研助手/cs-arxiv-daily-wechat.json"
-md_gitpage_path: "D:/大三下/科研助手/index.md"
-md_wechat_path: "D:/大三下/科研助手/wechat.md"
-
-
-# 显示字段配置
-show_fields:
-  - title       # 论文标题
-  - authors     # 作者
-  - abstract    # 摘要
-  - subjects    # 主题
-  - keywords    # 关键词
-  - links       # 链接
-  
-
-# 排序设置
-sort_by: "citations"  # 按被引用量排序
-sort_order: "desc"    # 降序排列
-
+md_readme_path: 'README.md'
+md_gitpage_path: './docs/index.md'
+md_wechat_path: './docs/wechat.md'
 
 
 # # keywords to search
